@@ -1,0 +1,21 @@
+{
+  "name": "streams-direct-ws-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "@types/ws": "^8.5.10",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "typescript": "^5.4.5"
+  }
+}
